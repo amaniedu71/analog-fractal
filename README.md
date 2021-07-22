@@ -9,4 +9,5 @@ NumPy: version 1.20.2
 You can modify it as you like!
 ![pic1](pic1.png)
 ![pic2](pic2.png)
+![pic3](pic3.png)
 
